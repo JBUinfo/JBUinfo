@@ -68,7 +68,7 @@ I'm allways exploring new technologies and learning!
   ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=000)
   ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
   ![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
-- 🚗 &nbsp;
+- 🚗 *(I want)*&nbsp;
   ![Bugatti](https://aleen42.github.io/badges/src/bugatti.svg)
   ![Mitsubishi](https://aleen42.github.io/badges/src/mitsubishi.svg)
   ![Mercedes_benz](https://aleen42.github.io/badges/src/mercedes_benz.svg)
@@ -81,10 +81,10 @@ I'm allways exploring new technologies and learning!
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
 <a href="https://www.linkedin.com/in/javier-borbolla-ure%C3%B1a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Javier%20Borbolla%20ure%C3%B1a-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:javierbuinfo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-javierbuinfo@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://steamcommunity.com/id/Jebx_"><img alt="Steam" src="https://badges.aleen42.com/src/steam.svg"></a>
-<a href="https://www.twitch.tv/jebx_/"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white"></a>
+<a href="mailto:javierbuinfo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-javierbuinfo@gmail.com-blue?style=flat&logo=gmail"></a><br/>
 <a href="https://twitter.com/0xborbo"><img alt="Twitter" src="https://badges.aleen42.com/src/twitter.svg"></a>
+<a href="https://www.twitch.tv/jebx_/"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white"></a><br/>
+<a href="https://steamcommunity.com/id/Jebx_"><img alt="Steam" src="https://badges.aleen42.com/src/steam.svg"></a><br/>
 
 
 <a href="https://www.buymeacoffee.com/jebx"><img alt="Twitter" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
