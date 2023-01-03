@@ -2,7 +2,7 @@
 <a href="https://jebx.dev"><img src="https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
 </h2>
 
-I'm allways exploring new technologies and learning!
+I'm constantly seeking out new ways to learn and experimenting with new technologies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
