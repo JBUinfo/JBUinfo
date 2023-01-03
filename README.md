@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Jebx!
-<a href="https://jebx.dev"><img src="https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white"/></a>
+<a href="https://jebx.dev"><img src="https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white"/></a>
 </h2>
 
 I'm constantly seeking out new ways to learn and experimenting with new technologies.
@@ -41,31 +41,31 @@ I'm constantly seeking out new ways to learn and experimenting with new technolo
   ![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white)
   ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
 - 👨‍💻 &nbsp;
-  ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-  ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
-  ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+  ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
+  ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+  ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=Overleaf&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 - 🧐 &nbsp;
-  ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
-  ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
+  ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E)
+  ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white)
 - 🖍 &nbsp;
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-  ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-square&logo=Canva&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+  ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
 - 🔔 &nbsp;
-  ![Jest](https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 - 💡 &nbsp;
-  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)
 - 📊 &nbsp;
-  ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white)
+  ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=Kibana&logoColor=white)
 - ⏱️ &nbsp;
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 - 💲 &nbsp;
-  ![Tether](https://img.shields.io/badge/tether-168363?style=flat-square&logo=tether&logoColor=white)
-  ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=flat-square&logo=polkadot&logoColor=000)
-  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white)
-  ![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=flat-square&logo=chainlink&logoColor=white)
+  ![Tether](https://img.shields.io/badge/tether-168363?style=flat&logo=tether&logoColor=white)
+  ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=flat&logo=polkadot&logoColor=000)
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white)
+  ![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=flat&logo=chainlink&logoColor=white)
 - 🚗 *(I want)*&nbsp;
   ![Bugatti](https://aleen42.github.io/badges/src/bugatti.svg)
   ![Mitsubishi](https://aleen42.github.io/badges/src/mitsubishi.svg)
