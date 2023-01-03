@@ -71,7 +71,7 @@ I'm constantly seeking out new ways to learn and experimenting with new technolo
   ![Mitsubishi](https://aleen42.github.io/badges/src/mitsubishi.svg)
   ![Mercedes_benz](https://aleen42.github.io/badges/src/mercedes_benz.svg)
 
-<h3>  &nbsp;Github stats</h3>
+<h3> 📊 &nbsp;Github stats</h3>
 
   <img alt="Github stats1" height="150em" src="https://github-readme-stats.vercel.app/api?username=JBUinfo&theme=buefy&show_icons=true" />
   <img alt="Github stats2" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBUinfo&theme=buefy&layout=compact" />
