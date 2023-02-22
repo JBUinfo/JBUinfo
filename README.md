@@ -56,7 +56,7 @@ I'm constantly seeking out new ways to learn and experimenting with new technolo
 
 <a href="https://www.linkedin.com/in/javier-borbolla-ure%C3%B1a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Javier%20Borbolla%20ure%C3%B1a-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:javierbuinfo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-javierbuinfo@gmail.com-blue?style=flat&logo=gmail"></a><br/>
-<a href="https://twitter.com/0xborbo"><img alt="Twitter" src="https://badges.aleen42.com/src/twitter.svg"></a>
+<a href="https://twitter.com/0xJebx"><img alt="Twitter" src="https://badges.aleen42.com/src/twitter.svg"></a>
 <a href="https://www.twitch.tv/jebx_/"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white"></a><br/>
 <a href="https://steamcommunity.com/id/Jebx_"><img alt="Steam" src="https://badges.aleen42.com/src/steam.svg"></a><br/>
 
