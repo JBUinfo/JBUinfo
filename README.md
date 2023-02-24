@@ -40,8 +40,6 @@ I'm constantly seeking out new ways to learn and experimenting with new technolo
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
   ![Atom](https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white)
   ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
-- 🔔 &nbsp;
-  ![Jest](https://img.shields.io/badge/Jest-323330?style=flat&logo=Jest&logoColor=white)
 - 💡 &nbsp;
   ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)
 
